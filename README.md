@@ -16,7 +16,8 @@ The ebook cold be downloaded from here:
 
 ## Question asked for this repo:
 
-1-[Can not fit the 3D subplot photo sizes (matplotlib)](https://stackoverflow.com/questions/67034366/can-not-fit-the-3d-subplot-photo-sizes-matplotlib):
+ 1. [Can not fit the 3D subplot photo sizes
+    (matplotlib)](https://stackoverflow.com/questions/67034366/can-not-fit-the-3d-subplot-photo-sizes-matplotlib):
 
 <img src="https://i.stack.imgur.com/6DtxW.png" width="100" height="100">
 
