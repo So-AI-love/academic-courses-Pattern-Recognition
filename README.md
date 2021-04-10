@@ -1,4 +1,6 @@
-# This is related to exercise for pattern recognazatin for **Keinosuke Fukunaga Introduction to Stas-tical Pattern Recognit ion Second Edition**
+# This Repo is related to exercise for:
+
+pattern recognazatin for **Keinosuke Fukunaga Introduction to Stas-tical Pattern Recognit ion Second Edition**
 
 
 The ebook cold be downloaded from here:
