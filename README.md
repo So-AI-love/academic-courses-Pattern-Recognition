@@ -9,7 +9,7 @@ The pattern recognazatin for **Keinosuke Fukunaga Introduction to Stas-tical Pat
 
 ## The Colab page for online test:
 
-[Fukunaga, Keinosuke. - Introduction to Statistical Pattern Recognition-Elsevier-Academic Press (1999)_EX_2.ipynb](https://github.com/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_2.ipynb)
+[Fukunaga, Keinosuke. - Introduction to Statistical Pattern Recognition-Elsevier-Academic Press (1999)_EX_2.ipynb](https://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_2.ipynb)
 
 <img src="https://user-images.githubusercontent.com/6679151/114270244-840ce280-9a20-11eb-9fde-be6ec62d5834.png" width="80" height="80">
 
