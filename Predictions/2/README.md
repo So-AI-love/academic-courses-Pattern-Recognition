@@ -3,7 +3,7 @@
 
 ----------
 
-1- For **so-so.csv** all around 400,000 inputs r2_score is around **0.998** ([colab page link](https://colab.research.google.com/github/So-AI-love/Test_NN/blob/main/Predictions/2/time_series_rnn_full_predict so-so-99.ipynb)):
+1- For **so-so.csv** all around 400,000 inputs r2_score is around **0.998** ([colab page link](http://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Predictions/2/time_series_rnn_full_predict%20so-so-99.ipynb):
 
 [![enter image description here][1]][1]
 
