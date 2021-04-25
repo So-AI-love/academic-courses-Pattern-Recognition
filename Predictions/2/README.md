@@ -28,7 +28,7 @@ Thanks.
   [1]: https://colab.research.google.com/github/So-AI-love/Test_NN/blob/main/Predictions/2/time_series_rnn_full_predict_99_Correct.ipynb#scrollTo=DHWMcQ9AgqJM
   [2]: https://i.stack.imgur.com/BIfXx.png
   [3]: https://i.stack.imgur.com/y8pMI.png
-  [4]: https://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Predictions/2/time_series_rnn_full_predict_99_Correct_main_data_local.ipynb#scrollTo=YvOC96GtJCww
+  [4]: https://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Predictions/2/time_series_rnn_full_predict-no-local-main-no-skewness.ipynb
   [5]: https://i.stack.imgur.com/XgGPS.png
-  [6]: https://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Predictions/1/time_series_rnn_full_predict_97_Correct_main_data_local_skewness.ipynb#scrollTo=DXOSgrgtJF6V
+  [6]: https://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Predictions/time_series_rnn_full_predict-o-local-main-skewness.ipynb
   [7]: https://i.stack.imgur.com/00az1.png
