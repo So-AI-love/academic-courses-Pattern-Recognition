@@ -7,19 +7,21 @@ The pattern recolonization for **Keinosuke Fukunaga Introduction to Statistical 
 
 <img src="https://user-images.githubusercontent.com/6679151/114270258-9a1aa300-9a20-11eb-87f2-56ee63fd6015.png" width="280" height="280">
 
-## The Colab page for online test:
+## The Colab page for online test :
 
-[Fukunaga, Keinosuke. - Introduction to Statistical Pattern Recognition-Elsevier-Academic Press (1999)_EX_2.ipynb](https://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_2.ipynb)
-
-<img src="https://user-images.githubusercontent.com/6679151/114270244-840ce280-9a20-11eb-9fde-be6ec62d5834.png" width="280" height="280">
-
-Details about the Above exercises could be seen on [the below Video](https://gfycat.com/insignificantcloseflyinglemur-pattern-recognition
-):
-
-<img src="https://user-images.githubusercontent.com/6679151/116905429-36b51700-ac54-11eb-945d-807e50eeedee.png" width="280" height="280">
+ 1. [Chapter 2 Programs exercise Colab link](http://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_2.ipynb) and Details about the Above exercises
+    could be seen on [the below
+    Video](https://gfycat.com/insignificantcloseflyinglemur-pattern-recognition):
 
 
-[Fukunaga, Keinosuke. - Introduction to Statistical Pattern Recognition-Elsevier-Academic Press (1999)_EX_3.ipynb](http://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_3.ipynb)
+![enter image description here](https://i.stack.imgur.com/mGG3o.png)
+
+
+ 
+
+ 2. [Chapter 3 Programs exercise Colab
+    link](http://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_3.ipynb)
+
 ## Question asked for this repo:
 
  1. [Can not fit the 3D subplot photo sizes
