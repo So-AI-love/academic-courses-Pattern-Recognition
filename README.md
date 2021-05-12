@@ -17,7 +17,6 @@ The pattern recolonization for **Keinosuke Fukunaga Introduction to Statistical 
 ![image](https://user-images.githubusercontent.com/6679151/117954890-b619a900-b32c-11eb-844b-fb2f711d15e1.png)
 
 
- 
 
  2. [Chapter 3 Programs exercise Colab
     link](http://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_3.ipynb)
