@@ -11,10 +11,10 @@ The pattern recolonization for **Keinosuke Fukunaga Introduction to Statistical 
 
  1. [Chapter 2 Programs exercise Colab link](http://colab.research.google.com/github/So-AI-love/academic-courses-Pattern-Recognition/blob/main/Fukunaga%2C%20Keinosuke.%20-%20Introduction%20to%20Statistical%20Pattern%20Recognition-Elsevier-Academic%20Press%20(1999)_EX_2.ipynb) and Details about the Above exercises
     could be seen on [the below
-    Video](https://gfycat.com/insignificantcloseflyinglemur-pattern-recognition):
+    Video](https://soheil-dating.wistia.com/medias/6gs9xkc5q4?wvideo=6gs9xkc5q4):
 
 
-![enter image description here](https://i.stack.imgur.com/mGG3o.png)
+![image](https://user-images.githubusercontent.com/6679151/117954890-b619a900-b32c-11eb-844b-fb2f711d15e1.png)
 
 
  
